@@ -1,1 +1,1 @@
-Adds health-increasing sweets and dessert (not desert) blocks to Minetest.
+Adds edible and decorative nodes to Minetest.
